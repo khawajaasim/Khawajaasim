@@ -15,7 +15,7 @@ or <a href="mailto:asimaslam.kh@gmail.com"><b>email</b></a> me
 <i>Happy Coding!</i> 😊
 
 </div>
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/5955233" align="center"> <br>
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/5955233?theme=dark" align="center"> <br>
   
   
   <h2 align="center"> I make things! <br><br/>
