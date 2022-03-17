@@ -22,7 +22,6 @@ or <a href="mailto:asimaslam.kh@gmail.com"><b>email</b></a> me
   <img src="https://github-readme-stats.vercel.app/api?username=khawajaasim&show_icons=true&theme=radical" align="center"> <br>
  
 </h2>
-   <img width="100%" src="https://github.com/KhawajaAsim/KhawajaAsim/blob/main/story.png" align="center"> <br>
 </div>
 
 <br/>
