@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">
     Hi, I'm Asim! 👋 <br>
-    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=30" align="center"><br>
+   <br>
      
   </h1>
   
